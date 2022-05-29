@@ -14,7 +14,7 @@ const sebastian = {
     technologies: {
         qaAutomation: {
             mobile: ["Appium", "Java", "POM", "Screenplay"],
-            backend: ["Rest-Assured", "Java", "POM", "Screenplay", "Pstman", "Newman"],
+            backend: ["Rest-Assured", "Java", "POM", "Screenplay", "Postman", "Newman"],
             web: ["Selenium Web Driver", "Java", "Cypress", "Javascript", "Typescript", "Mocha", "chai", "POM", "App Actions"],
             contractTesting: ["PACT JS", "Javascript", "JEST"],
             performance: ["K6", "Javascript"],
