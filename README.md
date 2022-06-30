@@ -22,7 +22,7 @@ const sebastian = {
             other: ["Gherkin", "Cucumber", "Serenity BDD"]
         },
         development: {
-            inProgress: ["NodeJS", "MongoDB", "Express"]
+            inProgress: ["NodeJS", "NestJS", "TypeORM"]
         }        
     }
 };
