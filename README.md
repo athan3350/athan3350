@@ -44,8 +44,10 @@ const sebastian = {
              "Spring MVC",
              "Spring Boot",
              "Spring Cloud",
-             "JPA", "Hibernate",
-             "Eureka", "Spring Security",
+             "JPA",
+             "Hibernate",
+             "Eureka",
+             "Spring Security",
              "RabbitMQ"
              ]
         }        
