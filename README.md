@@ -18,12 +18,12 @@ const sebastian = {
             backend: ["Rest-Assured", "Java", "POM", "Screenplay", "Postman", "Newman"],
             web: ["Selenium Web Driver", "Java", "Cypress", "Javascript", "Typescript", "Mocha", "chai", "POM", "App Actions"],
             contractTesting: ["PACT JS", "Javascript", "JEST"],
-            performance: ["K6", "Javascript"],
+            performance: ["K6", "Javascript", "Locust", "Python"],
             other: ["Gherkin", "Cucumber", "Serenity BDD"]
         },
         development: {
             backend: ["NodeJS", "NestJS", "TypeORM"],
-            inProgress: ["Spring MVC", "Spring Boot", "Spring cloud", "JPA", "Hibernate", "Eureka", "Spring Security", "RabbitMQ"]
+            inProgress: ["Spring MVC", "Spring Boot", "Spring Cloud", "JPA", "Hibernate", "Eureka", "Spring Security", "RabbitMQ"]
         }        
     }
 };
