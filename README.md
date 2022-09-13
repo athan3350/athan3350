@@ -22,7 +22,8 @@ const sebastian = {
             other: ["Gherkin", "Cucumber", "Serenity BDD"]
         },
         development: {
-            inProgress: ["NodeJS", "NestJS", "TypeORM"]
+            backend: ["NodeJS", "NestJS", "TypeORM"],
+            inProgress: ["Spring MVC", "Spring Boot", "Spring cloud", "JPA", "Hibernate", "Eureka", "Spring Security", "RabbitMQ"]
         }        
     }
 };
